@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Merhaba! Ben Beyza Karaman
 
-<!--
-**beyzak6/beyzak6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+22 yaşındayım ve Muğla Sıtkı Koçman Üniversitesi Yazılım Mühendisliği 2. sınıf öğrencisiyim.  
+Yazılıma olan ilgimle hem teknik becerilerimi hem de problem çözme yeteneğimi sürekli geliştiriyorum.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 Şu An Neler Üzerinde Çalışıyorum
+
+🚀 Java ve Spring Boot ile web uygulamaları geliştiriyorum  
+🧠 PostgreSQL kullanarak veri tabanı tasarımı yapıyorum  
+📚 Katmanlı mimari, RESTful API ve DTO yapıları ile gerçekçi projeler geliştiriyorum  
+💻 Veri yapıları, algoritmalar ve temiz kod yazımı üzerine çalışıyorum  
+
+---
+
+## 🔍 İlgi Alanlarım
+
+💻 Back-End Geliştirme (Java, Spring Boot)  
+🧪 Yazılım testi ve kalite süreçleri ( Postman)  
+📘 Yeni teknolojiler öğrenmek ve kendini sürekli geliştirmek  
+
+---
+
+
+## 📫 Bağlantıda Kalalım!
+
+💼 [LinkedIn](https://www.linkedin.com/in/beyza-karaman-025515352/) üzerinden bana ulaşabilirsin  
+
+
